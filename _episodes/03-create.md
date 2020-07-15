@@ -7,9 +7,13 @@ questions:
 objectives:
 - "Create a local Git repository."
 - "Describe the purpose of the `.git` directory."
+- "Describe how to check project status."
+- "Describe how to check for an existing`.git` directory."
+- "Describe how to remove files from a local git repository." 
 keypoints:
 - "`git init` initializes a repository."
 - "Git stores all of its repository data in the `.git` directory."
+- "Creating nested .git directories will cause conflicts with the parent tracking history."
 ---
 
 Once Git is configured,
